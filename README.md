@@ -93,9 +93,9 @@ The system integrates **embedded control** to automate fluid cycling, temperatur
 
 ## 👨‍💻 Team
 
-- **Pramath J**  
+- **Pramath J**
+- Anika U Bhat
 - Samaraditya P H  
-- Sanjana Aathreya  
 
 **Role:** Embedded Systems Developer / Hardware–Software Integration
 
